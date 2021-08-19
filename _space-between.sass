@@ -1,0 +1,10 @@
+// 👇
+
+$_s: "> :not([hidden]) ~ :not([hidden])"
+
+@mixin space-y($v)
+	#{$_s}
+		margin-top: $v
+		margin-bottom: $v
+
+// 👆
