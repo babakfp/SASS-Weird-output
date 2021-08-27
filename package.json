@@ -1,0 +1,5 @@
+{
+	"scripts": {
+		"sass": "sass index.sass:index.css --watch --no-source-map"
+	}
+}

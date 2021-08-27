@@ -1,0 +1,7 @@
+.first-selector {
+  display: inline;
+}
+
+.second-selector .first-selector {
+  display: none;
+}
